@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @PerryPlatypu5
+- 👀 I’m interested in developing my coding capacity and knowledgebase. Technically, I am a chem/bio engg by trade so larger programming and the expertise that comes from formally learning comsci / soft engg is quite foreign to me!
+- 🌱 I’m currently learning how to develop my own django-powered platform - which I intend to use as a place to host a range of my own personal projects such as CMD, process modelling, biomodelling, automated report gen, visualisations, optimisations, etc. in a more user friendly / GUI-y kinda way.
+- 💞️ I’m looking for the most part to collaborate on beginner level webdev, industry-level process modelling and / or projects that improves the quality of life for those less fortunate. But in saying that, I am open to anything!
+- 📫 How to reach me: find Dr Doofenshmirtz or use the Platypus-Signal
+- 😄 Pronouns: he / him / The Platypus
+- ⚡ Fun fact: As it may be obvious by my acc name, was a bit of a Phineas & Ferb fan / still am -> PerryPlatypu5 was my first ever gamertag on Xbox 360 back in 2011, and it has followed me ever since. 
