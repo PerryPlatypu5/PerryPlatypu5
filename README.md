@@ -1,4 +1,3 @@
-![Header](./Header.png)
 # Welcome! The TLDR is 🚀
 ![Static Badge](https://img.shields.io/badge/New_To_Programming-orange?style=for-the-badge)
 
