@@ -7,7 +7,6 @@
 ![Static Badge](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&labelColor=blue&color=blue)
 ![Static Badge](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust&labelColor=red&color=red)
 ![Static Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&labelColor=black&color=black)
-![Static Badge](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django&labelColor=purple&color=purple)
 
 # My Bio ☣️
   👋 Hi, I’m @PerryPlatypu5
